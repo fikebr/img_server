@@ -6,7 +6,7 @@ This is an express.js server that I want to use for the "Photography" page of my
 
 ## Tech
 
-I first tried the modules "Wrend" and "express-sharp" but I found problems with both. In the end I used the "sharp" and just made my own.
+I first tried the modules "Wrend" and "express-sharp" (both are wrappers to the "sharp" module) but I found problems with both. In the end I just used the base module "sharp" and wrote my own.
 
 - https://expressjs.com/
 - https://sharp.pixelplumbing.com/
